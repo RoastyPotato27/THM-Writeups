@@ -4,6 +4,7 @@
 
 **Summary (TL;DR):**
 
+Using website certificates to find hidden subdomains.
 
 **1. Scope & Setup**
 
