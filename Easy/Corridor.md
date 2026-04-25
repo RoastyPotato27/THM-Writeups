@@ -3,7 +3,7 @@
 **Difficulty:** Easy
 
 **Summary (TL;DR):**
-
+Cracking Hashes and expoiting IDOR!
 
 
 **1. Scope & Setup**
@@ -26,6 +26,8 @@ This challenge also requires knowledge on IDOR.
 
 The website looks like this, and once you click on a door, you enter a new room, which is.... well, empty.
 
+<img width="692" height="668" alt="image" src="https://github.com/user-attachments/assets/487aa6df-1074-4149-b82b-ba003e36e171" />
+<br></br>
 But the adress bar is not empty coz it contains a hash! If you pass it in crackstation.net, it will give you the value of that hash.
 
 <img width="1029" height="320" alt="image" src="https://github.com/user-attachments/assets/e1bb201d-c901-4881-9128-cf6890571e2b" />
